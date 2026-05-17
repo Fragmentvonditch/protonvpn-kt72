@@ -1,10 +1,10 @@
-Seguro ProtonVPN Utilitário | servidores de alta velocidade + túnel dividido é o melhor ProtonVPN utilitário com servidores de alta velocidade e túnel dividido. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/protonvpn-kt72/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
