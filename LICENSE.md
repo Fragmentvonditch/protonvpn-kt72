@@ -1,10 +1,10 @@
-安全ProtonVPN工具 | 高速服务器 + 分割隧道 是最佳 ProtonVPN 工具，集成 高速服务器 和 分割隧道。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/protonvpn-kt72/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
